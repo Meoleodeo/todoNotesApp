@@ -34,8 +34,8 @@ A desktop application for managing todos and notes using Python, PyQt6, and SQL 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd todo-notes-manager
+   git clone https://github.com/Meoleodeo/todoNotesApp
+   cd todoNotesApp
    ```
 
 2. **Install Python dependencies**
