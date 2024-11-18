@@ -1,0 +1,3 @@
+PyQt6==6.5.2
+pyodbc==4.0.39
+pyinstaller==6.1.0
